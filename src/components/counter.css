@@ -1,0 +1,12 @@
+.counter {
+  color: #fff;
+  font-size: 80px;
+  font-weight: 700;
+  transform: translateY(-15px);
+  text-shadow: 0 0 5px white;
+}
+
+.counter-active {
+  transform: scale(1.5);
+  transition: 0.5s;
+}
